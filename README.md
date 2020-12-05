@@ -2,7 +2,7 @@
 
 [![Build Status](https://api.travis-ci.org/IBM/watson-discovery-ui.svg?branch=master)](https://travis-ci.org/IBM/watson-discovery-ui)
 
-#Signup/Login to IBM Cloud for free: https://ibm.biz/BdqN5U
+# Signup/Login to IBM Cloud for free: https://ibm.biz/BdqN5U
 
 
 
