@@ -2,6 +2,10 @@
 
 [![Build Status](https://api.travis-ci.org/IBM/watson-discovery-ui.svg?branch=master)](https://travis-ci.org/IBM/watson-discovery-ui)
 
+#Signup/Login to IBM Cloud for free: https://ibm.biz/BdqN5U
+
+
+
 # Develop a fully featured web app built on the Watson Discovery Service
 
 In this code pattern, we walk you through a working example of a web application that queries and manipulates data from the Watson Discovery Service. This web app contains multiple UI components that you can use as a starting point for developing your own Watson Discovery Service applications. 
