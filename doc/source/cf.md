@@ -9,7 +9,7 @@ This document shows how to run the `watson-discovery-ui` application using Cloud
 ## Steps
 
 <p align="center">
-    <a href="https://ibm.biz/BdqN5U/devops/setup/deploy?repository=https://github.com/IBM/watson-discovery-ui">
+    <a href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/IBM/watson-discovery-ui">
     <img src="https://cloud.ibm.com/devops/setup/deploy/button_x2.png" alt="Deploy to IBM Cloud">
     </a>
 </p>
